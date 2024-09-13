@@ -5,7 +5,7 @@ export default function Home() {
 
   return (
     <div>
-      <p>Hello World Feature #2</p>
+      <p>Hello World Feature #3</p>
     </div>
   );
 }
